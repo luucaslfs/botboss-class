@@ -1,0 +1,11 @@
+{
+  "name": "wp-demo",
+  "version": "1.0.0",
+  "description": "A wordpress blog with seo-friendly content to promote Affiliate Marketing products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
